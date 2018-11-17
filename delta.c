@@ -1,3 +1,5 @@
+/*Delta.c from Closure relation of eigenfunction of particle in box */
+/* Author: Birendra Dhanuk */
 double fact(int);
 double sin(double);
 static double t=0.001;
